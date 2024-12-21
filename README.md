@@ -1,8 +1,11 @@
-# <img src='Workflow/icon.png' width='45' align='center' alt='icon'> Run Command Alfred Workflow
+# WIP: NuShell Not Yet Supported! DO NOT USE
+
+<img src='Workflow/icon.png' width='45' align='center' alt='icon'> Run Command Alfred Workflow
 
 Run commands using your shell configuration
 
-[⤓ Install on the Alfred Gallery](https://alfred.app/workflows/vitor/run-command)
+
+[⤓ BROKEN LINK: Install on the Alfred Gallery](https://alfred.app/workflows/{{github_user_name}}/{{github_repo_name}})
 
 ## Usage
 
