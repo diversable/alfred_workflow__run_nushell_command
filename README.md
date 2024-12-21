@@ -1,6 +1,6 @@
 # WIP: NuShell Not Yet Supported! DO NOT USE
 
-<img src='Workflow/icon.png' width='45' align='center' alt='icon'> Run Command Alfred Workflow
+<img src='Workflow/icon.png' width='45' align='center' alt='icon'> Run NuShell Command Alfred Workflow
 
 Run commands using your shell configuration
 
